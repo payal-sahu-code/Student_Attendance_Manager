@@ -1,0 +1,14 @@
+{
+    "101": {
+        "name": "Aman",
+        "attendance": [
+            "P"
+        ]
+    },
+    "102": {
+        "name": "Riya",
+        "attendance": [
+            "P"
+        ]
+    }
+}
